@@ -1,4 +1,3 @@
 # hello
-Hello myGit World repository for Git tutorial
-This is an example repository for my learning
-I will build this repository step-by-step as I move forward in the tutorial.
+Hello World this a learning repository.
+This is an example repository for learning and practice only
